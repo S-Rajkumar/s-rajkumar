@@ -14,11 +14,11 @@
 - 👯 Open to collaboration on **any and all Open Source Projects**
 - ❓ Looking for help with **learning more about Cyber Security**
 - 📫 Feel free to contact me **udmnxpdu@protonmail.com**
-- :link: Follow me on <a href=https://linkedin.com/in/udmnxpdu target="_blank"><img align="center" src="https://www.linkedin.com/favicon.ico" alt="udmnxpdu" height="13" width="13" /></a>
+- :link: Follow me on <a href=https://linkedin.com/in/udmnxpdu target="blank">linkedin</a>
 
 <hr>
 
 <h2 align="center">Hash Tags</h2>
 <p align="center">
- **#Engineer, #Programmer, #Developer, #Python, #PHP, #MySQL, #Basic-C, #JavaScript, #WebDeveloper, #Linux, #Parrot-OS, #Docker, #Github, #CTF-Player, #HTB**
+<b>#Engineer, #Programmer, #Developer, #Python, #PHP, #MySQL, #Basic-C, #JavaScript, #WebDeveloper, #Linux, #Parrot-OS, #Docker, #Github, #CTF-Player, #HTB</b>
 </p>
