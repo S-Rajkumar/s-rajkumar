@@ -4,9 +4,7 @@
 
  **The passionate developer with a hunger to learn and create new things. Keenly interested in Cyber Security, Web Development, and DevOps.**
 
-<hr>
-
- **Looking for opportunities to hone my skills in <br>Cyber Security, Web Development and DevOps.**
+ **Looking for opportunities to hone my skills in Cyber Security, Web Development and DevOps.**
 <hr>
 
 - 👨‍🎓 Currently a Sophomore at **Dept. of Computer Science, GCE-Srirangam, TamilNadu, India**
@@ -20,5 +18,5 @@
 
 <h2 align="center">Hash Tags</h2>
 <p align="center">
-<b>#Engineer, #Programmer, #Developer, #Python, #PHP, #MySQL, #Basic-C, #JavaScript, #WebDeveloper, #Linux, #Parrot-OS, #Docker, #Github, #CTF-Player, #HTB</b>
+<b>#Engineer #Programmer #Developer #Python #PHP #MySQL #Basic-C #JavaScript #WebDeveloper #Linux #Parrot-OS #Docker #Github #CTF-Player #HTB #THM</b>
 </p>
