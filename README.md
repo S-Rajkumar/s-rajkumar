@@ -2,9 +2,9 @@
 
 <h2 align="center"> About </h2>
 
- **The passionate developer with a hunger to learn and create new things. Keenly interested in Cyber Security, Web Development, and DevOps.**
+ **The passionate developer with a hunger to learn and create new things. Keenly interested in Cyber Security, Full Stack Developer, and DevOps.**
 
- **Looking for opportunities to hone my skills in Cyber Security, Web Development and DevOps.**
+ **Looking for opportunities to hone my skills in Cyber Security, Full Stack Developer and DevOps.**
 <hr>
 
 - 👨‍🎓 Currently a Sophomore at **Dept. of Computer Science, GCE-Srirangam, TamilNadu, India**
@@ -18,5 +18,5 @@
 
 <h2 align="center">Hash Tags</h2>
 <p align="center">
-<b>#Engineer #Programmer #Developer #Python #PHP #MySQL #Basic-C #JavaScript #WebDeveloper #REST-API #Linux #Parrot-OS #Docker #Github #CTF-Player #HTB #THM</b>
+<b>#Engineer #Programmer #Full_Stack_Developer #Python #PHP #MySQL #Basic-C #JavaScript #REST-API #Linux #Parrot-OS #Docker #AWS-EC2 #Git #Github #CTF-Player #CNN </b>
 </p>
