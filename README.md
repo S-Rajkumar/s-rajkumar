@@ -24,10 +24,10 @@
 
 <p>
 <a href="https://github.com/s-rajkumar">
-<img align="center" alt="S-Rajkumar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=s-rajkumar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia&hide=prs,issues" /></a>
+<img alt="S-Rajkumar's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=s-rajkumar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia&hide=prs,issues" /></a>
 
 <a href="https://github.com/s-rajkumar">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=s-rajkumar&layout=compact&theme=algolia&card_width=445&hide=html" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=s-rajkumar&layout=compact&theme=algolia&card_width=445&hide=html" />
 </a>
 </p>
 
