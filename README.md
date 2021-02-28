@@ -6,18 +6,20 @@
 
 <hr />
 
-- 👨‍🎓 Currently a Sophomore at **Dept. of Computer Science, GCE-Srirangam, TamilNadu, India**
-- 💻 Prior experience with **Python, Linux, Web Development** and **MySQL**
+- 👨‍💻 Currently improving a startup company as a Developer at 600020
+- 💻 Prior experience with **Python, Linux** and **Web Development**
 - 👯 Open to collaboration on **any and all Open Source Projects**
-- ❓ Looking for help with **learning more about Cyber Security**
+- ❓ Looking for help with **learning more about Cyber Security and Science**
 - 📫 Feel free to contact me **udmnxpdu@protonmail.com**
-- :link: Follow me on <a href=https://linkedin.com/in/udmnxpdu target="blank">linkedin</a>
+- :link: <a href=https://s-rajkumar.github.io/ target="blank">Portfolio</a>
 
 <hr />
 
 <h2 align="center">Hash Tags</h2>
 <p align="center">
-<b>#Engineer #Programmer #Full_Stack_Developer #Python #PHP #MySQL #Basic-C #JavaScript #REST-API #Linux #Parrot-OS #Docker #AWS-EC2 #Git #Github #CTF-Player #CNN </b>
+<b>#<span style="transform: scale(-1, 1);">Engineer</span> #Developer #Python #.NET #C-Sharp #Web Development #PHP #MySQL #Basic-C #JavaScript #REST-API #Linux #Network #Parrot-OS #Docker #AWS-EC2 #Git #AI 
+<br /> #Time, #Law of Conservation of Energy
+</b>
 </p>
 
 <hr />
