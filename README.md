@@ -1,4 +1,4 @@
-<h1 align="center">Hey Buddy 👋 Raj here</h1>
+<h1 align="center">Hey there 👋 Raj here</h1>
 
  **The passionate developer with a hunger to learn and create new things. Keenly interested in Cyber Security, Full Stack Developer and DevOps.**
 
