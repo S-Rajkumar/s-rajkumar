@@ -20,7 +20,7 @@
 <h2 align="center">Hash Tags</h2>
 <p align="center">
 <b>#<span style="transform: scale(-1, 1);">Engineer</span> #Developer #Python #.NET #C-Sharp #Web Development #PHP #MySQL #Basic-C #JavaScript #REST-API #Linux #Network #Parrot-OS #Docker #AWS-EC2 #Git #AI #MRCNN #gRPC #Django #Flutter #React
-<br /> #Time, #Law of Conservation of Energy
+<br /> #Time
 </b>
 </p>
 
